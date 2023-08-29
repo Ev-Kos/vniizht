@@ -1,0 +1,20 @@
+.sell {
+  width: 50%;
+  padding: 10px;
+  border-bottom: 1px solid #eeecec;
+  cursor: pointer;
+
+}
+
+.row:hover {
+  opacity: 0.7;
+}
+
+.link {
+  text-decoration: none;
+  display: flex;
+  width: 100%;
+  color: #000000;
+  font-size: 14px;
+  font-weight: 400;
+}

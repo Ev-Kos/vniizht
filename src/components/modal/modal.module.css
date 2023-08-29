@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: fixed;
+  box-sizing: border-box;
+  background-color: #1c1c21;
+  top: 50%;
+  left: 50%;
+  z-index: 3;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  border-radius: 32px;
+}

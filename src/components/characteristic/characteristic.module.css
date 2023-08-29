@@ -1,0 +1,16 @@
+.input {
+  width: 90%;
+  background: transparent;
+  color: #000000;
+  border: none;
+  border-bottom: 1px solid #eeecec;
+  margin: 10px;
+}
+
+.error {
+  width: 90%;
+  background: transparent;
+  color: #000000;
+  border: 1px solid red;
+  margin: 10px;
+}
